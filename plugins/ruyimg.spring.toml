@@ -17,3 +17,8 @@ sha256 = "3abab7f49c446807161ff3b2569fb1935ac3a52b9c7ff8dcc53b2e928d8d37ac"
 version = "0.1.2"
 package = "https://github.com/RuyimgByCN/openidea-spring/releases/download/v0.1.2/ruyimg.spring-0.1.2.oiplugin"
 sha256 = "9ae59d94c332f7280488f54acf178e6322c569d623736e39c9546cdaf5922ec7"
+
+[[versions]]
+version = "0.1.3"
+package = "https://github.com/RuyimgByCN/openidea-spring/releases/download/v0.1.3/ruyimg.spring-0.1.3.oiplugin"
+sha256 = "d3b53a6b170791d81e24e7343de637e1df385d704e7b1023700104b3f0de88e6"
